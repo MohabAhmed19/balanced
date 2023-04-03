@@ -109,6 +109,7 @@ void main()
 	{
 		printf("parentheses are balanced");
 	}
+	scanf("%d");
 }
 
 void createEmptyStack(ST_stack_t* stack)
